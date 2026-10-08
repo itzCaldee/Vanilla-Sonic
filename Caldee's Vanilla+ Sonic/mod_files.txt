@@ -9,4 +9,3 @@ add raw_1Main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
 add raw_1Main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
 add raw_1Main/raw/dlc/dlcxmas/dlcxmas.pac
 add mod.ini
-lol
